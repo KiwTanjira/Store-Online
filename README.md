@@ -1,7 +1,3 @@
-![ตัวอย่างหน้าร้านค้า]
-(https://github.com/KiwTanjira/Store-Onli/raw/main/public/images/sample-store1.png)
-(https://github.com/KiwTanjira/Store-Onli/raw/main/public/images/sample-store2.png)
-
 
 ## เกี่ยวกับโปรเจค
 
